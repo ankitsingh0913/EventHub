@@ -1,10 +1,10 @@
-# local_event
+# EventHub
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Explore everything happening in your community with EventHub, the ultimate local event guide right in your pocket. Whether you're new in town or a long-time resident, EventHub is your go-to platform for finding exciting events near you.
 
 A few resources to get you started if this is your first Flutter project:
 
