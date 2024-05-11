@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## About Project
 
 Explore everything happening in your community with EventHub, the ultimate local event guide right in your pocket. Whether you're new in town or a long-time resident, EventHub is your go-to platform for finding exciting events near you.
 
